@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Danilo Matos</h1>  
 <h3 align="center"><a href="https://danilomatos.surge.sh">Click here to see my portfolio</h3>
 
-<h4 align="center">A frontend developer passionate about technology</h4>
+<h4 align="center">A fullstack developer passionate about technology</h4>
 
 ### How search me
 <a href="mailto:georginedanilo@gmail.com" alt="gmail" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/georgine-danilo" alt="linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="www.linkedin.com/in/danilo-matoss" alt="linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a><br /><br />
 
 :books: Currently, I am a public servant and learning:
