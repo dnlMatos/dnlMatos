@@ -51,12 +51,9 @@
 </br>
 </br>
 
-![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/dnlmatos?cardType=level)<br />
-
-<a href="https://github.com/dnlMatos/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dnlMatos" />
-</a>
-<a href="https://github.com/dnlMatos/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dnlMatos&layout=compact&langs_count=8&card_width=320" />
-</a>
-
+<div align="center">
+  
+![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/dnlmatos?cardType=level)
+  <br />
+  
+</div>
