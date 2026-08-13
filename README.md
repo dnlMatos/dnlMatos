@@ -1,6 +1,6 @@
 <h2 align="center">Hi 👋! My name is Danilo and I'm a fullstack developer passionate about technology</h2>
 
-<h4 align="center"><a href="(https://danilomatos.vercel.app/)">Click here to see my portfolio</h4>
+<h4 align="center"><a href="[https://danilomatos.vercel.app]">Click here to see my portfolio</h4>
 
 </br>
 </br>
